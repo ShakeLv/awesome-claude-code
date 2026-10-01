@@ -364,6 +364,7 @@ Specialized skills for specific domains like marketing, SEO, legal, research, an
 | [deusyu/translate-book](https://github.com/deusyu/translate-book) | 617 ⭐ | Claude Code skill that translates entire books (PDF/DOCX/EPUB) using parallel subagents |
 | [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) | 309 ⭐ | 50 AI agent skills for affiliate marketing — research trending content, write data-backed posts |
 | [CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) | 132 ⭐ | Email marketing skill for Claude Code — 55K words, 908 sources, 19 industry playbooks |
+| [valeryia-piatrova/jsonlogic-skill](https://github.com/valeryia-piatrova/jsonlogic-skill) | 1 ⭐ | Agent skill that turns business requirements into JsonLogic rules: generate, run, validate, and debug JsonLogic for AI coding assistants. |
 
 ---
 
